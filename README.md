@@ -1,6 +1,8 @@
 # Backend 노트 :card_file_box:
  
-- [socket - TCP](https://github.com/Tedhoon/Backend-Note/blob/master/socket/TCP_socket.md)
+- [socket - TCP](https://github.com/Tedhoon/Backend-Note/blob/master/socket/TCP/TCP_socket.md)
+    - [server code](https://github.com/Tedhoon/Backend-Note/blob/master/socket/TCP/server.py)
+    - [client code](https://github.com/Tedhoon/Backend-Note/blob/master/socket/TCP/client.py)
 
 <br>
 

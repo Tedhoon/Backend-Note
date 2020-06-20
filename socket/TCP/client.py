@@ -23,4 +23,4 @@ data = client_socket.recv(1024)
 print('Received', repr(data.decode()))
 
 # 소켓을 닫습니다.
-# client_socket.close()
+client_socket.close()
